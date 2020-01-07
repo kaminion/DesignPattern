@@ -8,6 +8,11 @@ public class Duck {
     protected FlyBehavior flyBehavior;
     protected QuackBehavior quackBehavior;
 
+    public void setFlyBehavior(FlyBehavior fb)
+    {
+        flyBehavior = fb;
+    }
+
     public void performQuack()
     {
         quackBehavior.quack();
