@@ -1,11 +1,9 @@
-package Chapter02;
+package Chapter02.Description;
 
 public class Weather {
 
     public void measurementsChanged()
     {
-        float temp = getTemperature();
-        float
 
     }
 }

@@ -1,4 +1,4 @@
-package Chapter02.inter;
+package Chapter02.Description.inter;
 
 public interface Subject {
 
